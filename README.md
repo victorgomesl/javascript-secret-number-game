@@ -8,7 +8,7 @@ Este projeto é um jogo simples e divertido desenvolvido em JavaScript. O objeti
 
 ## Preview
 
-Live: link
+Live: https://javascript-secret-number-game.vercel.app/
 
 
 ## Pré-requisitos
@@ -18,30 +18,27 @@ Live: link
 
 ## Instalação
 
-Não é necessário instalar o jogo. Basta clonar o repositório e abrir o arquivo index.html no navegador para começar a jogar.
+Não é necessário instalar o jogo.
+Basta clonar o repositório e abrir o arquivo index.html no navegador para começar a jogar.
 
 1. Clone do repositório:
 ```bash
-git clone https://github.com/seuusuario/jogo-numero-secreto.git
+git clone https://github.com/victorgomesl/javascript-secret-number-game
 ```
 
 2. Navegue até o diretório do projeto:
 ```bash
-cd jogo-numero-secreto
+cd javascript-secret-number-game
 ```
 
-3. Instale as dependências:
-```bash
-npm install
-```
+3. Abra o arquivo index.html em seu navegador.
 
-## Rodando o projeto
-Após a instalação das dependências, você pode iniciar o servidor de desenvolvimento com o seguinte comando:
-```bash
-ng serve
-```
+## Jogando o projeto
 
-O aplicativo estará disponível em http://localhost:4200/ por padrão.
+1. Após abrir o jogo no navegador, leia as instruções na tela.
+2. Insira o seu palpite no campo indicado e pressione o botão para verificar se você acertou o número secreto.
+3. Siga as dicas fornecidas pelo jogo até descobrir o número secreto.
+4. Após acertar, você pode reiniciar o jogo clicando no botão de reiniciar.
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter mais detalhes.
